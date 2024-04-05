@@ -10,22 +10,22 @@ const testimonials = [
     description: "this is the best application in the market",
   },
   {
-    name: "Shrikant",
-    avatar: "S",
-    title: "Software Developer",
-    description: "this is the best application in the market",
+    name: "Mary",
+    avatar: "M",
+    title: "Sr Software Developer",
+    description: "Hands on the best application in the market",
   },
   {
-    name: "Shrikant",
-    avatar: "S",
+    name: "Anshika",
+    avatar: "A",
     title: "Software Developer",
-    description: "this is the best application in the market",
+    description: "Could not get the best of it",
   },
   {
-    name: "Shrikant",
-    avatar: "S",
+    name: "Hrithik",
+    avatar: "H",
     title: "Software Developer",
-    description: "this is the best application in the market",
+    description: "This is a wonderful application",
   },
 ];
 
