@@ -14,7 +14,7 @@ export const LandingHero = () => {
       <div className="text-3xl sm:text-5xl md:text-6xl lg:text-7xl space-y-5 font-extrabold">
         <h1>I have all your answers, AI serving at its best</h1>
         <h1 className="text-rose-900">It can be :</h1>
-        <div className="text-transparent bg-clip-text text-slate-900">
+        <div className=" bg-clip-text text-slate-900">
           <TypewriterComponent
             options={{
               strings: ["chatbot.", "photos .", "blogs.", "emails."],
